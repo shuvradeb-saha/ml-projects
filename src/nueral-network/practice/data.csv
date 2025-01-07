@@ -1,0 +1,10 @@
+No_of_rooms, No_of_bathrooms, Square_feet, Distance_from_busstand_km, has_lift, has_generator, price
+1, 1, 500, 5, false, false, 5000
+1, 1, 600, 4, true, false, 6000
+1, 1, 600, 4, true, true, 7000
+2, 1, 900, 4, true, false, 10000
+2, 1, 1000, 4, true, false, 12000
+2, 2, 1100, 3, true, false, 13500
+2, 2, 1100, 3, true, true, 15500
+3, 3, 1200, 2, false, false, 23000
+3, 3, 1500, 2, true, true, 30000
